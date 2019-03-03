@@ -11,8 +11,9 @@
     <title>Title</title>
     <%--BootStrap--%>
     <link href="static/css/bootstrap.min.css" rel="stylesheet">
-    <link href="static/css/datepicker3.css" rel="stylesheet">
-    <link href="static/css/styles.css" rel="stylesheet">
+    <script src="static/js/jquery-1.11.1.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+
 </head>
 <body>
 
